@@ -28,11 +28,6 @@ Designed with a clean and minimal UI for an easy user experience.
 - **Java Development Kit (JDK)** installed  
 - Android device or emulator to run the app  
 
-### Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MohamedAbdelrahmanMetwally/Basic-Calucaltor.git
-
 🤝 Contributing
 Contributions are welcome!
 
@@ -45,7 +40,7 @@ Commit your changes
 Open a pull request
 
 
-👤 Author
-Mohamed Abdelrahman Metwally
-🔗 GitHub Profile
+## 👤 Author
+
+**Mohamed Abdelrahman Metwally**  
 
