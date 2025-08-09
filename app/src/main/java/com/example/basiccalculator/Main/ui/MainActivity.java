@@ -1,4 +1,4 @@
-package com.example.basiccalculator;
+package com.example.basiccalculator.Main.ui;
 
 import java.util.Stack;
 import android.annotation.SuppressLint;
@@ -10,6 +10,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.example.basiccalculator.R;
+
 public class MainActivity extends AppCompatActivity {
     private TextView textView;
     @Override
