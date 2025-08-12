@@ -11,14 +11,17 @@ Designed with a clean and minimal UI for an easy user experience.
 - Responsive and simple design  
 - Lightweight and fast performance  
 - Works fully offline  
-
+- اش
 ---
 
 ## 🛠️ Built With
 - **Java** – Application logic  
 - **XML** – UI design and layout  
 - **Android SDK** – Native Android development tools
-
+- **MVVM architecture**
+- **data binding**
+- **ة
+-**ة
 ---
 
 ## 🚀 Getting Started
@@ -42,4 +45,5 @@ Open a pull request
 ## 👤 Author
 
 [**Mohamed Abdelrahman Metwally**](https://github.com/MohamedAbdelrahmanMetwally)  
+
 
