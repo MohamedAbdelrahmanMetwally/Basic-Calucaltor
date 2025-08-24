@@ -69,7 +69,10 @@ public class Calculator {
             case '+': return a + b;
             case '-': return a - b;
             case '*': return a * b;
-            case '/': return a / b;
+            case '/':{
+                if (b == 0) return Double.NaN;
+                return a / b;
+            }
         }
         return 0;
     }
